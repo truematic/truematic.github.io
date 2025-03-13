@@ -55,6 +55,10 @@
     {
       "name": "StikTech",
       "address": "https://ani.stik.tech"
+    },
+    {
+    "name": "anise",
+    "address": "https://anisette-v3-server-f6a1.onrender.com"
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
